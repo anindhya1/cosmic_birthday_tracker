@@ -21,6 +21,7 @@ python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 streamlit run app_ui.py
+```
 
 ## Notes
 
@@ -28,5 +29,5 @@ The planetary data file de421.bsp is auto-downloaded by Skyfield (not included i
 
 This app is built with Python and Streamlit.
 
-Author
+## Author
 @anindhya1
