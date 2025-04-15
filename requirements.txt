@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+skyfield
+pytz
+streamlit
+requests
+matplotlib
+plotly
+numpy
