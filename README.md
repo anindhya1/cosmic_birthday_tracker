@@ -1,4 +1,4 @@
-# Cosmic Birthday Tracker 🌍
+# Cosmic Birthday Tracker
 
 This app helps you discover and celebrate your **true cosmic birthday** — the moment when Earth returns to the same position in its orbit as when you were born.
 
